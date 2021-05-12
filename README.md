@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WellingtonFR
 - 👀 I’m interested in .net core, .net 5, nodejs, reactjs ...
-- 🌱 I’m currently learning asp .net core
-- 💞️ I’m looking to collaborate on everything that1s make me evolve
+- 🌱 I’m currently learning asp.net, entity framework, and relationed content
+- 💞️ I’m looking to collaborate on everything that's make me evolve
 - 📫 How to reach me: wellingtondfr@gmail.com
 
 <!---
