@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WellingtonFR
-- 👀 I’m interested in .net core, .net 5, nodejs, reactjs ...
-- 🌱 I’m currently learning asp.net, entity framework, and relationed content
+- 👋 Hi, I’m Wellington Rocha @WellingtonFR
+- 👀 I’m interested in Nodejs, Reactjs, NextJs, Powershell, Bashscript
+- 🌱 I’m currently learning my interests and relationed content
 - 💞️ I’m looking to collaborate on everything that's make me evolve
 - 📫 How to reach me: wellingtondfr@gmail.com
 
