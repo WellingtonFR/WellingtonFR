@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Wellington Rocha @WellingtonFR
-- 👀 I’m interested in Nodejs, Reactjs, NextJs, Powershell, Bashscript
-- 🌱 I’m currently learning my interests and relationed content
-- 💞️ I’m looking to collaborate on everything that's make me evolve
-- 📫 How to reach me: wellingtondfr@gmail.com
+# Olá, meu nome é Wellington Rocha <img src="https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/master/wave.gif" width="30px" height="30px" />
 
-<!---
-WellingtonFR/WellingtonFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Eu sou um analista de infraestrutura que estuda desenvolvimento de software de forma contínua.
+
+## Contatos
+![Linkedin](https://imgur.com/gallery/linkedin-logo-colored-OQUXwNp)(https://www.linkedin.com/in/wellington-de-freitas-rocha-a845231b9/)
+
+## Tecnologias
+![](https://img.shields.io/badge/Linux-informational?&logo=linux&logoColor=white&color=1571ab)
+![](https://img.shields.io/badge/JavaScript-informational?&logo=javascript&logoColor=white&color=1571ab)
+![](https://img.shields.io/badge/React-informational?&logo=react&logoColor=white&color=1571ab)
+![](https://img.shields.io/badge/Next.Js-informational?&logo=next.js&logoColor=white&color=1571ab)
+![](https://img.shields.io/badge/Bash-informational?&logo=gnu-bash&logoColor=white&color=1571ab)
+![](https://img.shields.io/badge/Powershell-informational?&logo=gnu-bash&logoColor=white&color=1571ab)
+
+## GitHub Status
+
+<a href="https://github.com/WellingtonFR/WellingtonFR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonFR&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/WellingtonFR/WellingtonFR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WellingtonFR&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="WellingtonFR GitHub Stats" />
+</a>
