@@ -26,5 +26,5 @@ Eu sou um analista de infraestrutura que estuda desenvolvimento de software de f
 [1]: https://www.linkedin.com/in/wellington-de-freitas-rocha-a845231b9/
 [1.1]: https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/main/LinkedinLogo.png
 
-[2]: https://www.linkedin.com/in/wellington-de-freitas-rocha-a845231b9/
-[1.2]: https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/main/LinkedinLogo.png
+[2]: https://www.instagram.com/wellington.f.r/
+[1.2]: https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/main/InstagramLogo.png
