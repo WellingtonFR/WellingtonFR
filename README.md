@@ -4,6 +4,7 @@ Eu sou um analista de infraestrutura que estuda desenvolvimento de software de f
 
 ## Contatos
 [![Linkedin][1.1]][1]
+[![Instagram][1.2]][2]
 
 ## Tecnologias
 ![](https://img.shields.io/badge/Linux-informational?&logo=linux&logoColor=white&color=1571ab)
@@ -23,4 +24,7 @@ Eu sou um analista de infraestrutura que estuda desenvolvimento de software de f
 </a>
 
 [1]: https://www.linkedin.com/in/wellington-de-freitas-rocha-a845231b9/
-[1.1]: 
+[1.1]: https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/main/LinkedinLogo.png
+
+[2]: https://www.linkedin.com/in/wellington-de-freitas-rocha-a845231b9/
+[1.2]: https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/main/LinkedinLogo.png
