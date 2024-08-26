@@ -7,10 +7,13 @@ Eu sou um analista de infraestrutura que estuda desenvolvimento de software de f
 [![Instagram][1.2]][2]
 
 ## Tecnologias
-![](https://img.shields.io/badge/Linux-informational?&logo=linux&logoColor=white&color=1571ab)
-![](https://img.shields.io/badge/JavaScript-informational?&logo=javascript&logoColor=white&color=1571ab)
+![](https://img.shields.io/badge/JavaScript-informational?&logo=javascript&logoColor=white&color=1571ab&logoSize=auto)
 ![](https://img.shields.io/badge/React-informational?&logo=react&logoColor=white&color=1571ab)
 ![](https://img.shields.io/badge/Next.Js-informational?&logo=next.js&logoColor=white&color=1571ab)
+![](https://img.shields.io/badge/HTML-informational?&logo=html5&logoColor=white&color=1571ab)
+![](https://img.shields.io/badge/CSS-informational?&logo=css3&logoColor=white&color=1571ab)
+![](https://img.shields.io/badge/GIT-informational?&logo=Git&logoColor=white&color=1571ab)
+![](https://img.shields.io/badge/Linux-informational?&logo=linux&logoColor=white&color=1571ab)
 ![](https://img.shields.io/badge/Bash-informational?&logo=gnu-bash&logoColor=white&color=1571ab)
 ![](https://img.shields.io/badge/Powershell-informational?&logo=gnu-bash&logoColor=white&color=1571ab)
 
