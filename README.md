@@ -1,9 +1,9 @@
-# Olá, meu nome é Wellington Rocha <img src="https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/master/wave.gif" width="30px" height="30px" />
+# Olá, meu nome é Wellington Rocha <img src="https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/main/wave.gif" width="30px" height="30px" />
 
 Eu sou um analista de infraestrutura que estuda desenvolvimento de software de forma contínua.
 
 ## Contatos
-![Linkedin](https://imgur.com/gallery/linkedin-logo-colored-OQUXwNp)(https://www.linkedin.com/in/wellington-de-freitas-rocha-a845231b9/)
+[![Linkedin][1.1]][1]
 
 ## Tecnologias
 ![](https://img.shields.io/badge/Linux-informational?&logo=linux&logoColor=white&color=1571ab)
@@ -21,3 +21,6 @@ Eu sou um analista de infraestrutura que estuda desenvolvimento de software de f
 <a href="https://github.com/WellingtonFR/WellingtonFR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WellingtonFR&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="WellingtonFR GitHub Stats" />
 </a>
+
+[1]: https://www.linkedin.com/in/wellington-de-freitas-rocha-a845231b9/
+[1.1]: 
