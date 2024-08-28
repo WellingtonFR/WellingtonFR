@@ -28,7 +28,7 @@ Eu sou um analista de infraestrutura que estuda desenvolvimento de software de f
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WellingtonFR&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="WellingtonFR GitHub Stats" />
 </a>
 
-[1]: https://www.linkedin.com/in/wellington-de-freitas-rocha-a845231b9/
+[1]: www.linkedin.com/in/wellington-de-freitas-rocha-a845231b9
 [1.1]: https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/main/LinkedinLogo.png
 
 [2]: https://www.instagram.com/wellington.f.r/
