@@ -5,6 +5,7 @@ Eu sou um analista de infraestrutura que estuda desenvolvimento de software de f
 ## Contatos
 [![Linkedin][1.1]][1]
 [![Instagram][1.2]][2]
+[![Gmail][1.3]][3]
 
 ## Tecnologias
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=f0db4f)
