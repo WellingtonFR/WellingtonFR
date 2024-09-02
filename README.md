@@ -34,5 +34,5 @@ Eu sou um analista de infraestrutura que estuda desenvolvimento de software de f
 [2]: https://www.instagram.com/wellington.f.r/
 [1.2]: https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/main/InstagramLogo.png
 
-[3]: wellingtondfr@gmail.com
+[3]: mailto:wellingtondfr@gmail.com
 [1.3]: https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/main/gmailLogo.png
