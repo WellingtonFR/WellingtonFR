@@ -8,6 +8,7 @@ Eu sou um analista de infraestrutura que estuda desenvolvimento de software de f
 [![Gmail][1.3]][3]
 
 ## Tecnologias
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=Python&logoColor=black&color=ffd343)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=f0db4f)
 ![](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=black&color=88dded)
