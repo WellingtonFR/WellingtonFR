@@ -1,6 +1,9 @@
 # Olá, meu nome é Wellington Rocha <img src="https://raw.githubusercontent.com/WellingtonFR/WellingtonFR/main/wave.gif" width="30px" height="30px" />
 
-Eu sou um analista de infraestrutura que estuda desenvolvimento de software de forma contínua.
+### Desenvolvedor de Sistemas | Apaixonado por Tecnologia | Sempre Aprendendo
+
+🎯 Meu objetivo é criar soluções eficientes e escaláveis para problemas do mundo real.</br>
+💡 Atualmente, estou aprofundando meus conhecimentos em Python, Microservices, Kubernetes e assuntos relacionados a IA.
 
 ## Contatos
 [![Linkedin][1.1]][1]
